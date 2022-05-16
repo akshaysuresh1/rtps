@@ -1,5 +1,5 @@
 # rtps
-Plot a phase space diagram of radio transients. <br>
+Plot a phase space diagram of radio transients using Python. For a C implementation of the code, see [Evan Keane's repository](https://github.com/FRBs/Transient_Phase_Space).<br>
 
 Plot design is motivated by Figure 1 of [Cordes et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004NewAR..48.1459C/abstract) and Figure 5 of [Pietka et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446.3687P/abstract).
 

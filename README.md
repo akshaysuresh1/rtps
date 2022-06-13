@@ -14,6 +14,7 @@ Presently, we take data points from the following papers and the references ther
 1. [Pietka et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446.3687P/abstract) (see Figure 5)
 2. [Nimmo et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022NatAs...6..393N/abstract) (see Figure 3)
 3. [Hurley-Walker et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022Natur.601..526H/abstract) (see Figure 4)
+4. [Caleb et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022NatAs.tmp..123C/abstract) (see Table 1)
 
 ## Installation and usage  
 Execute the following steps in sequence, provided you have a working Python3 installation including the `numpy`, `matplotlib` and `astropy` packages.

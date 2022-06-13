@@ -5,6 +5,7 @@ Plot design is motivated by Figure 1 of [Cordes et al. (2004)](https://ui.adsabs
 
 ![Phase space of radio transients](https://github.com/akshaysuresh1/rtps/blob/main/Plots/rtps.png?raw=True)
 
+In the above figure, solid circular markers of different colors represent various source classes. Diagonal dotted lines label contours of constant brightness temperature ($T_B$). The line $T_B  = 10^{12}$~K marks the theoretical maximum brightness temperature of an incoherently emitting synchrotron radio source. Above this value, inverse Compton losses become a significant limiting factor. Note that while emissions with $T_B \gtrsim 10^{12}$~K are strictly coherent, $T_B \lesssim 10^{12}$~K does not imply incoherent emission. <br>  
 ---
 
 ## Data

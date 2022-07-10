@@ -5,7 +5,7 @@ Plot design is motivated by Figure 1 of [Cordes et al. (2004)](https://ui.adsabs
 
 ![Phase space of radio transients](https://github.com/akshaysuresh1/rtps/blob/main/Plots/rtps.png?raw=True)
 
-In the above figure, colored markers indicate various source classes. The uncertainty principle (gray shaded box) restricts radio transient discovery below $\nu_{\rm GHz}W_{\rm s} \leq 5 \times 10^{-10}$. Diagonal dotted lines label contours of constant brightness temperature, $T_B$. The line $T_B  = 10^{12}\ {\rm K}$ marks the theoretical maximum brightness temperature of an incoherently emitting synchrotron radio source. Above this value, inverse Compton losses significantly limit the emission flux density. Note that while emissions with $T_B \gg 10^{12}\ {\rm K}$  are strictly coherent, $T_B \lesssim 10^{12}\ {\rm K}$  does not imply incoherent emission. <br>  
+In the above figure, colored markers indicate various source classes. The uncertainty principle (gray shaded box) restricts radio transient discovery at $\nu_{\rm GHz}W_{\rm s} \leq 5 \times 10^{-10}$. Diagonal dotted lines label contours of constant brightness temperature, $T_B$. The line $T_B  = 10^{12}\ {\rm K}$ marks the theoretical maximum brightness temperature of an incoherently emitting synchrotron radio source. Above this value, inverse Compton losses significantly limit the emission flux density. Note that while emissions with $T_B \gg 10^{12}\ {\rm K}$  are strictly coherent, $T_B \lesssim 10^{12}\ {\rm K}$  does not imply incoherent emission. <br>  
 
 ---
 

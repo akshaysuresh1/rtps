@@ -221,7 +221,7 @@ if show_plot or save_plot:
 
     # Axes labels
     plt.xlabel(r'Radio frequency (GHz) $\times$ Transient duration (s)', fontsize=16)
-    plt.ylabel(r'Spectral pseudo-luminosity, $L_{\nu}$ (Jy kpc$^{-2}$)', fontsize=16)
+    plt.ylabel(r'Spectral pseudo-luminosity, $L_{\nu}$ (Jy kpc$^2$)', fontsize=16)
 
     # Axes tick properites
     plt.gca().set_xscale('log')
